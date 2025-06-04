@@ -1,4 +1,4 @@
-# 📈 Sector-Based Stock Selection & Risk Analysis
+# 📈 S&P 500 Sector-Based Stock Selection & Risk Analysis
 
 This project explores risk-optimized stock selection from the S&P 500 by identifying top-performing stocks across diverse sectors. The analysis emphasizes consistent return potential, inter-sector diversification, and volatility management using Python and financial data from Yahoo Finance.
 
